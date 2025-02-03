@@ -43,11 +43,6 @@ o	It generates responses by retrieving data from the knowledge base.
 
 Below are outputs:
 
-![image](https://github.com/user-attachments/assets/7821e9f4-8a70-46b7-9109-0dea9b0c4f89)
-
-
-
-
 ![image](https://github.com/user-attachments/assets/42990efc-1606-40da-828d-18ea0045bf20)
 
 
