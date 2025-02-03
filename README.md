@@ -43,7 +43,7 @@ o	It generates responses by retrieving data from the knowledge base.
 ![image](https://github.com/user-attachments/assets/1eca6f6f-087d-43a3-bed0-c20450a2d395)
 
 
-Below are outputs:
+Below are CLI-based assistant outputs( Ask queries and type queries and receive responses from the assistant):
 
 ![image](https://github.com/user-attachments/assets/42990efc-1606-40da-828d-18ea0045bf20)
 
