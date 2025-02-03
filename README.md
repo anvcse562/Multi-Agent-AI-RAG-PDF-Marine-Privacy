@@ -4,6 +4,9 @@ Leveraging Multi-Agent AI with Vector Databases for Marine Piracy Analysis: A PD
 The multi-agent architecture primarily refers to the use of multiple AI agents working together to carry out specific tasks and enhance the overall functionality of the system. These agents interact with the knowledge base, process the PDF content, and assist the user in querying and analyzing marine piracy data. 
 
 
+Here sharing the research study that's been used to demonstrate the Agen AI RAG - https://www.researchgate.net/publication/279530488_Analyzing_Marine_Piracy_from_Structured_and_Unstructured_Data_Using_SASR_Text_Miner_by_Raghavender_Reddy_Byreddy_Nitish_Byri_Tejeshwar_Gurram_Anvesh_Reddy_Minukuri_and_Goutam_Chakraborty![image](https://github.com/user-attachments/assets/3d32e793-48bf-4c44-bb68-41fdec5ecda2)
+
+
 Here is a breakdown of agents being used:
 1. Knowledge Base Agent
    -  Role: Manages the loading, parsing, and storage of the PDF documents (piracy reports) into a vector database.
