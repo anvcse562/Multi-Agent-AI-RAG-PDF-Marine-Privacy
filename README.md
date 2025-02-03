@@ -5,7 +5,7 @@ The multi-agent architecture primarily refers to the use of multiple AI agents w
 
 
 Here is a breakdown of agents being used:
-Knowledge Base Agent
+1. Knowledge Base Agent
 •	Role: Manages the loading, parsing, and storage of the PDF documents (piracy reports) into a vector database.
 •	Component: PDFUrlKnowledgeBase
 
@@ -23,10 +23,12 @@ Knowledge Base Agent
 
 
 Example Interaction Flow
+
 1.	User Input: The user can now interact with the assistant by typing queries like:
 o	"How many attack types are captured in the knowledge base?"
 o	"Give me a frequency table of attack types."
 o	"What are the most common pirate behaviors in the Gulf of Aden?"
+
 2.	AI Processing:
 o	The assistant searches the vector database for relevant information.
 o	It can classify the attack data based on types, weapons used, and other factors.
