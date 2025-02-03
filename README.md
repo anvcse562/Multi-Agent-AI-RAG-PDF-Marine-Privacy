@@ -6,20 +6,20 @@ The multi-agent architecture primarily refers to the use of multiple AI agents w
 
 Here is a breakdown of agents being used:
 1. Knowledge Base Agent
-•	Role: Manages the loading, parsing, and storage of the PDF documents (piracy reports) into a vector database.
-•	Component: PDFUrlKnowledgeBase
+   -  Role: Manages the loading, parsing, and storage of the PDF documents (piracy reports) into a vector database.
+   -  Component: PDFUrlKnowledgeBase
 
 2. Vector Database and Embedding Agent
-•	Role: Manages the storage and retrieval of embeddings for the PDF content.
-•	Component: PgVector2
+   -  Role: Manages the storage and retrieval of embeddings for the PDF content.
+   -  Component: PgVector2
 
 3. Assistant Agent
-•	Role: The core conversational agent that interacts with the user, processes the query, and responds with the most relevant information.
-•	Component: Assistant
+   -  Role: The core conversational agent that interacts with the user, processes the query, and responds with the most relevant information.
+   -  Component: Assistant
 
 4. Storage Management Agent
-•	Role: Handles session management and stores assistant state, including historical interactions and user context.
-•	Component: PgAssistantStorage
+   -  Role: Handles session management and stores assistant state, including historical interactions and user context.
+   -  Component: PgAssistantStorage
 
 
 Example Interaction Flow
