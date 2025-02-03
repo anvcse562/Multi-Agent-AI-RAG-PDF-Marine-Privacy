@@ -6,6 +6,7 @@ The multi-agent architecture primarily refers to the use of multiple AI agents w
 
 Here, I’m sharing a research study from 2015 that demonstrates how traditional algorithms were used, highlighting the heavy burden they placed on data scientists. This serves as a contrast to the more efficient approach of Agent AI with Retrieval-Augmented Generation (RAG)- https://www.researchgate.net/publication/279530488_Analyzing_Marine_Piracy_from_Structured_and_Unstructured_Data_Using_SASR_Text_Miner_by_Raghavender_Reddy_Byreddy_Nitish_Byri_Tejeshwar_Gurram_Anvesh_Reddy_Minukuri_and_Goutam_Chakraborty![image](https://github.com/user-attachments/assets/3d32e793-48bf-4c44-bb68-41fdec5ecda2)
 
+PDF documents illustrate the piracy attacks on a monthly basis- https://www.imo.org/en/OurWork/Security/Pages/Piracy-Reports-Default.aspx
 
 Here is a breakdown of agents being used:
 1. Knowledge Base Agent
